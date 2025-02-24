@@ -78,7 +78,7 @@
             "web/profiles/contrib/{$name}": ["type:drupal-profile"],
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
-            "recipes/{$name}": ["type:drupal-recipe"],
+            "recipes/{$name}": ["type:drupal-recipe"]
         },
         "drupal-core-project-message": {
             "include-keys": ["homepage", "support"],
