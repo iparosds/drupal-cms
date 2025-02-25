@@ -9,9 +9,6 @@ web/themes/contrib
 drush/Commands/contrib
 recipes
 
-# Ignore Drupal CMS Installer profile.
-web/profiles/drupal_cms_installer
-
 # Ignore Drupal core files.
 web/modules/README.txt
 web/profiles/README.txt
